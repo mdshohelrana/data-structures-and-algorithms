@@ -1,3 +1,7 @@
+# In-Order Traversal: Visits nodes in Left, Root, Right order.
+# Pre-Order Traversal: Visits nodes in Root, Left, Right order.
+# Post-Order Traversal: Visits nodes in Left, Right, Root order.
+
 class Node:
     def __init__(self, data):
         self.left = None
